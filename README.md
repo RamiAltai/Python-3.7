@@ -4,8 +4,10 @@
 
 Here you can find basic scripts that I wrote through out my journey in learning Python 3.7
 
-Some of them might not be useful for real world applications, but they explain the concepts that anyone trying to start writing python needs to understand and master.
+Disclaimer : The files & scripts in this repository are not meant to perform tasks or serve any purpose other than demonstrating and explaining Python basics.
 
+This repository will keep growing continuously, to provide a starting point in learning python.
+ 
 
 ---
 
